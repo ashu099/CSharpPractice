@@ -1,0 +1,14 @@
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

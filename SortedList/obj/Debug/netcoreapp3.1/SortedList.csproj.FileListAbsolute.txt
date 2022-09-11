@@ -1,0 +1,14 @@
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache

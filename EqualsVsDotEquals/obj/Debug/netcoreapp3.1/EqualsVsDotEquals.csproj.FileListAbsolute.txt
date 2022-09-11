@@ -1,0 +1,14 @@
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\bin\Debug\netcoreapp3.1\EqualsVsDotEquals.exe
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\bin\Debug\netcoreapp3.1\EqualsVsDotEquals.deps.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\bin\Debug\netcoreapp3.1\EqualsVsDotEquals.runtimeconfig.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\bin\Debug\netcoreapp3.1\EqualsVsDotEquals.runtimeconfig.dev.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\bin\Debug\netcoreapp3.1\EqualsVsDotEquals.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\bin\Debug\netcoreapp3.1\EqualsVsDotEquals.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\EqualsVsDotEquals\obj\Debug\netcoreapp3.1\EqualsVsDotEquals.genruntimeconfig.cache

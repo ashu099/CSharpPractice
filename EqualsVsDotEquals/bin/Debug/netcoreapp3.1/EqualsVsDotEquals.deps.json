@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EqualsVsDotEquals/1.0.0": {
+        "runtime": {
+          "EqualsVsDotEquals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EqualsVsDotEquals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
